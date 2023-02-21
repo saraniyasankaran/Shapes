@@ -1,0 +1,11 @@
+.shape{
+  display: flex;
+  margin-left: 150px;
+  
+}
+.triangle,.Square,.Perimeter{
+  margin-left: 40px;
+}
+.Cylinder{
+  margin-left: 70px;
+}
